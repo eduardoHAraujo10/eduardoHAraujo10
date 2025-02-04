@@ -9,7 +9,7 @@ Olá! Meu nome é Eduardo Araújo e sou um Programador Fullstack Jr. Aqui você 
 ### Cadastro de Filmes
 - **Descrição:** Esse foi um trabalho bem simples feito na faculdade, basicamente meu grupo fez um cadastro de filmes.
 - **Tecnologias:** Vue.js.
-- **Link:** [Demo](https://projectweb-flame.vercel.app) | [Repositório]((https://github.com/eduardoHAraujo10/devweb))
+- **Link:** [Demo](https://projectweb-flame.vercel.app) | [Repositório](https://github.com/eduardoHAraujo10/devweb)
 
 ## Habilidades
 
