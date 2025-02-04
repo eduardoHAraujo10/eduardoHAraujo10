@@ -20,5 +20,5 @@ Olá! Meu nome é Eduardo Araújo e sou um Programador Fullstack Jr. Aqui você 
 ## Contato
 
 - Email: eduardohenrique2003201010@gmail.com
-- [Linkedin:](https://linkedin.com/in/eduardo-araújo-000427227)
-- [GitHub:](https://github.com/eduardoHAraujo10)
+- [Linkedin](https://linkedin.com/in/eduardo-araújo-000427227)
+- [GitHub](https://github.com/eduardoHAraujo10)
