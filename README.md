@@ -26,7 +26,7 @@
 
 ## 🚀 Projetos Destacados
 
-### 📚 AulaCheck - EM CONSTRUÇÃO
+### 📚 Sistema de Frequência - EM CONSTRUÇÃO
 - **Descrição:** Sistema de gerenciamento de frequência de alunos desenvolvido como parte do meu estágio obrigatório na universidade.
 - **Tecnologias:** Vue.js | PHP | Laravel | MySQL.
 - **Status:** 🚧 Em construção.
@@ -49,7 +49,7 @@
 
 ## 📫 Contato
 
-- ✉️ **Email:** [eduardohenrique2003201010@gmail.com](mailto:eduardohenrique2003201010@gmail.com)
+- ✉️ **Email:** [eduardo.a.dev@outlook.com](mailto:eduardo.a.dev@outlook.com)
 - 💼 **LinkedIn:** [Eduardo Araújo](https://linkedin.com/in/eduardo-araújo-000427227)
 - 🐙 **GitHub:** [eduardoHAraujo10](https://github.com/eduardoHAraujo10)
 
