@@ -52,7 +52,3 @@
 - ✉️ **Email:** [eduardo.a.dev@outlook.com](mailto:eduardo.a.dev@outlook.com)
 - 💼 **LinkedIn:** [Eduardo Araújo](https://linkedin.com/in/eduardo-araújo-000427227)
 - 🐙 **GitHub:** [eduardoHAraujo10](https://github.com/eduardoHAraujo10)
-
----
-
-Feito com ❤️ por **Eduardo Araújo**.
