@@ -1,6 +1,6 @@
 # 🚀 Eduardo Araújo - Programador Fullstack Jr.
 
-👋 Olá! Meu nome é **Eduardo Araújo** e sou um **Programador Fullstack Jr.** apaixonado por desenvolvimento web e soluções tecnológicas. Aqui você encontrará alguns dos meus projetos pessoais e profissionais, onde aplico minhas habilidades para criar soluções eficientes e criativas.
+👋 Olá! Meu nome é **Eduardo Araújo** e sou um **Programador Fullstack Jr.** estou me especializando em desenvolvimento web. Aqui você encontrará alguns dos meus projetos pessoais e profissionais, onde aplico minhas habilidades para criar soluções eficientes e criativas.
 
 ---
 
