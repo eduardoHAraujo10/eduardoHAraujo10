@@ -29,6 +29,8 @@
 ### 📚 Sistema de Frequência 
 - **Descrição:** Sistema de gerenciamento de frequência de alunos desenvolvido como parte do meu estágio obrigatório na universidade.
 - **Tecnologias:** Vue.js | PHP | Laravel | MySQL.
+  -[backend](https://github.com/eduardoHAraujo10/frequencia-backend)
+  -[frontend](https://github.com/eduardoHAraujo10/frequencia-frontend)
 
 ### 🎬 Cadastro de Filmes
 - **Descrição:** Projeto simples desenvolvido na faculdade para cadastro e gerenciamento de filmes.
