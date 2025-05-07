@@ -26,10 +26,9 @@
 
 ## 🚀 Projetos Destacados
 
-### 📚 Sistema de Frequência - EM CONSTRUÇÃO
+### 📚 Sistema de Frequência 
 - **Descrição:** Sistema de gerenciamento de frequência de alunos desenvolvido como parte do meu estágio obrigatório na universidade.
 - **Tecnologias:** Vue.js | PHP | Laravel | MySQL.
-- **Status:** 🚧 Em construção.
 
 ### 🎬 Cadastro de Filmes
 - **Descrição:** Projeto simples desenvolvido na faculdade para cadastro e gerenciamento de filmes.
